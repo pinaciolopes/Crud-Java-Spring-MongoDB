@@ -1,0 +1,6 @@
+com\pablo\mongodb_spring\infrastructure\entitys\Usuario$UsuarioBuilder.class
+com\pablo\mongodb_spring\MongodbSpringApplication.class
+com\pablo\mongodb_spring\business\UsuarioService.class
+com\pablo\mongodb_spring\controller\UsuarioController.class
+com\pablo\mongodb_spring\infrastructure\entitys\Usuario.class
+com\pablo\mongodb_spring\infrastructure\repository\UsuarioRepository.class
